@@ -38,7 +38,7 @@ header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
     font-size: 3em;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.26);
     font-weight: normal;
 }
@@ -50,7 +50,7 @@ header > p {
     max-width: 600px;
     padding: 0 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 nav {
